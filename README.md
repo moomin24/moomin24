@@ -1,4 +1,4 @@
-# Nguyen Quang Minh 👋
+# Hi, I'm Min 👋
 
 I'm a data enthusiast who loves turning raw data into meaningful insights.
 Currently building skills in data analytics & engineering to contribute to
