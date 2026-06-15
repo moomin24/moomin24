@@ -10,8 +10,8 @@ product teams — especially in the game industry.
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
-## 📌 Featured Project
-- 🛒 [E-Commerce Analytics Pipeline & Dashboard](#) — ETL pipeline + Star Schema + Power BI
+## 📌 Portfolio
+- Data-Analyst-Portfolio
 
 ## 🎮 Interests
 - 🎮 Playing & making games — dream: build an indie game studio
